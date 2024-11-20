@@ -23,7 +23,7 @@ PROMPTS = {
     {job_description}
 
     ### ANWEISUNG:
-    Basierend auf der obigen Stellenbeschreibung verfassen Sie eine professionelle E-Mail auf Deutsch, in der Sie sich auf die Position bewerben. Betonen Sie Ihre Fähigkeiten, Ihr Interesse an der Rolle und wie Sie die Anforderungen erfüllen. Die E-Mail sollte formal und motiviert klingen.
+    Basierend auf der obigen Stellenbeschreibung verfassen Sie eine professionelle E-Mail auf Deutsch, in der Sie sich auf die Position bewerben. Betonen Sie Ihre Fähigkeiten, Ihr Interesse an der Rolle und wie Sie die Anforderungen erfüllen und beginnen Sie damit, mich als {mentions} vorzustellen.. Die E-Mail sollte formal und motiviert klingen.
     """,
     "English": """
     ### JOB DESCRIPTION:
