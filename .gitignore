@@ -1,0 +1,16 @@
+# Ignore environment variable files
+.env
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore config files
+config.json
