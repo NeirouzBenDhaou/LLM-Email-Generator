@@ -1,16 +1,23 @@
 # Ignore environment variable files
 .env
+
+# Ignore virtual environment directory
 .venv/
 
 # Ignore Python cache files
 __pycache__/
-*.py[cod]
-
-# Ignore VS Code workspace settings
-.vscode/
+*.pyc
+*.pyo
+*.pyd
 
 # Ignore log files
 *.log
+
+# Ignore SQLite database files
+*.sqlite
+
+# Ignore VS Code workspace settings
+.vscode/
 
 # Ignore config files
 config.json
