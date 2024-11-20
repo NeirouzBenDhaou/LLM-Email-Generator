@@ -21,3 +21,7 @@ pip install -r requirements.txt
 ### Selecting French
 ![3.png ](images/3.png)
 
+### Selecting German
+![4.png ](images/4.png)
+
+
