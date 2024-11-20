@@ -14,10 +14,10 @@ pip install -r requirements.txt
 ```
 
 
-![Image 1 ](images\1.png)
+![Image 1 ](images/1.png)
 ### Selecting English
-![2.png](images\2.png)
+![2.png](images/2.png)
 
 ### Selecting French
-![3.png ](images\3.png)
+![3.png ](images/3.png)
 
